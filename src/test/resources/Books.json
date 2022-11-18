@@ -1,0 +1,30 @@
+[
+    {
+        "bookName": " Head First Java by Kathy Sierra & Bert Bates",
+        "author": "Kathy Sierra",
+        "edition": "2",
+        "pros": "engaging storytelling, great illustrations, and real-life explanations",
+        "cons": "sometimes the puzzles are a bit confusing"
+    },
+    {
+        "bookName": " Beginning Programming with Java For Dummies",
+        "author": "Barry Burd",
+        "edition": "5",
+        "pros": "very simple examples",
+        "cons": "nothing more than a plain introduction in Java"
+    },
+    {
+        "bookName": " Programming Basics for Absolute Beginners",
+        "author": "Nathan Clark",
+        "edition": "1",
+        "pros": "smooth intro to Java programming ",
+        "cons": "there’s no profound explanation of the Object Oriented Programming concept"
+    },
+    {
+        "bookName": " A Beginner’s Guide",
+        "author": "Herbert Schildt",
+        "edition": "3",
+        "pros": "a plain tone of voice, self-testing",
+        "cons": " you need at least a small prior understanding of programming"
+    }
+]
